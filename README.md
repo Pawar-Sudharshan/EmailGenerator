@@ -25,7 +25,7 @@ An AI-powered business email generation application built using OpenAI API and G
 
 ## 📸 Project Screenshot
 
-![Application Screenshot](assets/img.png)
+![Application Screenshot](asserts/img.png)
 
 ---
 
